@@ -3,5 +3,5 @@
  * atualizado depois que o Worker for publicado. Nunca coloque secrets aqui.
  */
 window.MOUNTAIN_AUTH_CONFIG = {
-  apiBase: '',
+  apiBase: 'https://mountainllm-github-auth.marcelomhccaldeira.workers.dev',
 };
